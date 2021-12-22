@@ -1,1 +1,1 @@
-#github 명령어 강의
+# githubpratice
